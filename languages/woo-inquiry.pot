@@ -1,0 +1,669 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Inquiry\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-13 13:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.2"
+
+#: includes/reports.php:81
+msgid "Actions"
+msgstr ""
+
+#: includes/settings.php:355
+msgid "Active Bot"
+msgstr ""
+
+#: includes/functions.php:9 includes/functions.php:112
+msgid "Add To Inquiry list"
+msgstr ""
+
+#: includes/interface.php:158
+msgid "Admin response time is over!"
+msgstr ""
+
+#: includes/settings.php:101
+msgid "AM to"
+msgstr ""
+
+#: includes/functions.php:857
+msgid "Answer"
+msgstr ""
+
+#: includes/functions.php:1271
+msgid "Answer Now"
+msgstr ""
+
+#: includes/reports.php:54
+msgid "Answer to user inquiry"
+msgstr ""
+
+#: woo_inquiry.php:175
+msgid "Are you sure you want to delete all the users of this list?"
+msgstr ""
+
+#: woo_inquiry.php:176
+msgid ""
+"Are you sure you want to delete history?this action will delete 'non-working "
+"hours' and 'missed' list too!"
+msgstr ""
+
+#: woo_inquiry.php:177 woo_inquiry.php:178 woo_inquiry.php:179
+msgid "Are you sure?"
+msgstr ""
+
+#: includes/settings.php:251
+msgid "Before Summary"
+msgstr ""
+
+#: includes/settings.php:252
+msgid "Bottom"
+msgstr ""
+
+#: includes/reports.php:62
+msgid "Cancel"
+msgstr ""
+
+#: includes/settings.php:374
+msgid "Choose"
+msgstr ""
+
+#: woo_inquiry.php:92
+msgid "Choose notification sound"
+msgstr ""
+
+#: includes/functions.php:332 includes/functions.php:535
+msgid "Choosed options"
+msgstr ""
+
+#: includes/interface.php:143
+msgid "Close"
+msgstr ""
+
+#: bot/rest.php:172
+msgid "Confirm - Temporary price"
+msgstr ""
+
+#: bot/rest.php:173
+msgid "Confirm - until end of the working hours"
+msgstr ""
+
+#: includes/reports.php:61
+msgid "Confirm(in working hours)"
+msgstr ""
+
+#: includes/reports.php:60
+msgid "Confirm(Temporary)"
+msgstr ""
+
+#: bot/rest.php:111
+msgid "Confirmed - permanently"
+msgstr ""
+
+#: bot/rest.php:79 bot/rest.php:103 bot/rest.php:181 includes/functions.php:688
+#: includes/functions.php:750
+msgid "Confirmed - Temporary price"
+msgstr ""
+
+#: bot/rest.php:85 bot/rest.php:96 includes/functions.php:756
+msgid "Confirmed - until end of the working hours"
+msgstr ""
+
+#: includes/functions.php:681
+msgid "Confirmed - until end of the working hours ✅"
+msgstr ""
+
+#: includes/reports.php:32
+msgid "Current inquiries"
+msgstr ""
+
+#: includes/reports.php:79 includes/reports.php:109 includes/reports.php:141
+msgid "Current Price"
+msgstr ""
+
+#: includes/functions.php:333 includes/functions.php:337
+msgid "Current price"
+msgstr ""
+
+#: includes/functions.php:536 includes/functions.php:540
+msgid "Current Price : "
+msgstr ""
+
+#: includes/settings.php:60
+msgid "Customize"
+msgstr ""
+
+#: includes/reports.php:111 includes/reports.php:143 includes/reports.php:176
+msgid "Date"
+msgstr ""
+
+#: includes/reports.php:101 includes/reports.php:133 includes/reports.php:164
+#: includes/reports.php:198
+msgid "Delete All Records"
+msgstr ""
+
+#: includes/settings.php:89
+msgid "Disable Add to cart"
+msgstr ""
+
+#: includes/settings.php:271 includes/settings.php:292
+msgid "Display Price"
+msgstr ""
+
+#: includes/settings.php:293
+msgid "Display Price with prefix"
+msgstr ""
+
+#: includes/settings.php:188
+msgid "Displayed text after submitting contact form"
+msgstr ""
+
+#: bot/rest.php:236
+msgid "Done! You added to the list of admins."
+msgstr ""
+
+#: includes/settings.php:366
+msgid ""
+"enter the recipient emails to receive inquiry request notifications. "
+"Separate each email address using a comma and enter as many emails as you "
+"want"
+msgstr ""
+
+#: woo_inquiry.php:126
+msgid "entries"
+msgstr ""
+
+#: woo_inquiry.php:128
+msgid "export"
+msgstr ""
+
+#: woo_inquiry.php:91
+msgid "File type should be mp3"
+msgstr ""
+
+#: includes/settings.php:142
+msgid "Forced contact form?"
+msgstr ""
+
+#: includes/settings.php:344
+msgid "General"
+msgstr ""
+
+#: includes/settings.php:58
+msgid "General Settings"
+msgstr ""
+
+#: includes/settings.php:274 includes/settings.php:296
+msgid "Hachure text"
+msgstr ""
+
+#: bot/rest.php:270
+msgid "Hi , If you want to be my manager , Please enter my token :"
+msgstr ""
+
+#: includes/settings.php:272 includes/settings.php:294
+msgid "Hide Price"
+msgstr ""
+
+#: includes/reports.php:35
+msgid "History"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://t.me/ttmga"
+msgstr ""
+
+#: includes/settings.php:146
+msgid ""
+"If this option is enabled, the option to close the contact form disappears "
+"and the user has to fill in the contact form"
+msgstr ""
+
+#: includes/settings.php:93
+msgid ""
+"If this option is enabled, the user can only query the price of the product "
+"but can not add the product to the cart after the inquiry."
+msgstr ""
+
+#: includes/settings.php:217
+msgid ""
+"If this option is enabled, when you click on 'Out of stock' option in first "
+"queries' response,The text 'out of stock' will be displayed to all users who "
+"inquiry for that product ,Until the end of the working hours"
+msgstr ""
+
+#: includes/settings.php:241
+msgid ""
+"If you do not want to display the store notification, leave this section "
+"blank"
+msgstr ""
+
+#: includes/settings.php:82
+msgid "Inquiry button’s text"
+msgstr ""
+
+#: includes/settings.php:361
+msgid "Inquiry request email recipients"
+msgstr ""
+
+#: woo_inquiry.php:219
+msgid ""
+"maximum response time of the administrator is {timer}<br>\n"
+"                                        please do not reload the page until "
+"the inquiry’s status is determined<br>\n"
+"                                        after inquiry, you have only {limit} "
+"to complete your purchase, otherwise the item will be removed from your cart "
+"and you must inquire it again<br>"
+msgstr ""
+
+#: includes/settings.php:109
+msgid "Maximum response time(minute)"
+msgstr ""
+
+#: includes/settings.php:111 includes/settings.php:118
+#: includes/interface.php:88 includes/interface.php:89
+msgid "min"
+msgstr ""
+
+#: includes/functions.php:461 includes/functions.php:516
+msgid "Missed"
+msgstr ""
+
+#: includes/reports.php:33
+msgid "Missed inquiries"
+msgstr ""
+
+#: woo_inquiry.php:93 includes/reports.php:204 includes/interface.php:76
+msgid "Name"
+msgstr ""
+
+#: includes/functions.php:510 includes/functions.php:561
+msgid "Name : "
+msgstr ""
+
+#: includes/reports.php:173
+msgid "New Price"
+msgstr ""
+
+#: bot/rest.php:78 bot/rest.php:84 bot/rest.php:167 includes/interface.php:239
+#: includes/functions.php:749 includes/functions.php:755
+msgid "New Price : "
+msgstr ""
+
+#: bot/rest.php:94 bot/rest.php:101 bot/rest.php:110
+msgid "New Price : ??"
+msgstr ""
+
+#: includes/functions.php:679 includes/functions.php:686
+msgid "New Price : ??? "
+msgstr ""
+
+#: woo_inquiry.php:130
+msgid "Next"
+msgstr ""
+
+#: woo_inquiry.php:131
+msgid "No records to display!"
+msgstr ""
+
+#: includes/settings.php:153
+msgid "No response text"
+msgstr ""
+
+#: includes/functions.php:569 includes/functions.php:589
+msgid "Non-working Hours"
+msgstr ""
+
+#: includes/reports.php:34
+msgid "Non-working hours inquiries"
+msgstr ""
+
+#: includes/settings.php:59
+msgid "Notification settings"
+msgstr ""
+
+#: woo_inquiry.php:97
+msgid ""
+"Now go to Telegram Messenger and send this token for your bot. The bot will "
+"ask you for an email. The email you enter in this section, must be the email "
+"used to sign up on your wordpress site. Signed up user’s role must be the "
+"Admin or store manager. "
+msgstr ""
+
+#: woo_inquiry.php:125
+msgid "of"
+msgstr ""
+
+#: bot/rest.php:263
+msgid "OK , thats correct , Please enter your email address : "
+msgstr ""
+
+#: woo_inquiry.php:222
+msgid ""
+"Our colleagues are currently unable to respond. Please enter your contact "
+"information in the form below. In a few minutes, one of our colleagues will "
+"call you."
+msgstr ""
+
+#: woo_inquiry.php:223
+msgid ""
+"Our store is closed now. Please enter your contact information in the form "
+"below to contact you at the next working day."
+msgstr ""
+
+#: woo_inquiry.php:213 includes/functions.php:858
+msgid "Out Of Stock"
+msgstr ""
+
+#: includes/settings.php:204
+msgid "Out Of Stock text"
+msgstr ""
+
+#: includes/settings.php:213
+msgid "Out of stock until the end of the working hours"
+msgstr ""
+
+#: includes/settings.php:273 includes/settings.php:295
+msgid "Pale price"
+msgstr ""
+
+#: includes/reports.php:205 includes/interface.php:78
+msgid "Phone"
+msgstr ""
+
+#: includes/functions.php:511 includes/functions.php:562
+msgid "Phone : "
+msgstr ""
+
+#: woo_inquiry.php:180
+msgid "Please enter price first"
+msgstr ""
+
+#: includes/functions.php:1282
+msgid "Please follow the user's request as soon as possible"
+msgstr ""
+
+#: includes/interface.php:138
+msgid "Please wait ..."
+msgstr ""
+
+#: includes/settings.php:102
+msgid "PM"
+msgstr ""
+
+#: woo_inquiry.php:129
+msgid "Previous"
+msgstr ""
+
+#: includes/settings.php:268
+msgid "Price display format in product page"
+msgstr ""
+
+#: includes/settings.php:289
+msgid "Price display format in store page"
+msgstr ""
+
+#: includes/settings.php:280 includes/settings.php:302
+msgid "Price hachuring color"
+msgstr ""
+
+#: includes/functions.php:395
+msgid "Price Inquiry"
+msgstr ""
+
+#: woo_inquiry.php:210
+msgid "price inquiry"
+msgstr ""
+
+#: includes/functions.php:355 includes/functions.php:564
+#: includes/functions.php:584
+msgid "Price Inquiry Of "
+msgstr ""
+
+#: includes/settings.php:222 includes/settings.php:310
+msgid "Price prefix"
+msgstr ""
+
+#: includes/reports.php:77 includes/reports.php:107 includes/reports.php:139
+#: includes/reports.php:170
+msgid "Product"
+msgstr ""
+
+#: includes/functions.php:1291
+msgid "Product : "
+msgstr ""
+
+#: includes/reports.php:78 includes/reports.php:108 includes/reports.php:140
+#: includes/reports.php:171
+msgid "Product Name"
+msgstr ""
+
+#: includes/reports.php:172
+msgid "Regular Price"
+msgstr ""
+
+#: includes/functions.php:10
+msgid "Remove From Inquiry list"
+msgstr ""
+
+#: woo_inquiry.php:33
+msgid "Reports"
+msgstr ""
+
+#: includes/settings.php:136
+msgid "response time"
+msgstr ""
+
+#: includes/reports.php:206
+msgid "Role"
+msgstr ""
+
+#. Author of the plugin
+msgid "S.J.Hossseini"
+msgstr ""
+
+#: woo_inquiry.php:127
+msgid "search"
+msgstr ""
+
+#: woo_inquiry.php:31
+msgid "Setting"
+msgstr ""
+
+#: includes/settings.php:104
+msgid ""
+"Setting up the store working hours allows user to see a contact form in the "
+"hours that you can not answer, instead of the user can take an online "
+"inquiry."
+msgstr ""
+
+#: woo_inquiry.php:123
+msgid "showing"
+msgstr ""
+
+#: includes/reports.php:174
+msgid "Status"
+msgstr ""
+
+#: woo_inquiry.php:95
+msgid "Status : "
+msgstr ""
+
+#: bot/rest.php:95 bot/rest.php:102 includes/functions.php:680
+#: includes/functions.php:687
+msgid "Status : Out Of Stock"
+msgstr ""
+
+#: includes/settings.php:238
+msgid "Store notice"
+msgstr ""
+
+#: includes/settings.php:247
+msgid "Store notice position"
+msgstr ""
+
+#: includes/settings.php:99
+msgid "Store working hours"
+msgstr ""
+
+#: includes/settings.php:170
+msgid "Store’s non-working hours text"
+msgstr ""
+
+#: includes/interface.php:81
+msgid "Submit"
+msgstr ""
+
+#: includes/settings.php:353
+msgid "Telegram Bot Token"
+msgstr ""
+
+#: woo_inquiry.php:225
+msgid ""
+"Thank you for being in touch with us. Soon, one of our colleagues will "
+"contact you"
+msgstr ""
+
+#: woo_inquiry.php:224
+msgid ""
+"The price of this product is not updated ... Please click on the price "
+"inquiry button"
+msgstr ""
+
+#: includes/interface.php:159
+msgid "The store is closed."
+msgstr ""
+
+#: bot/rest.php:253
+msgid "This email address does not exist!"
+msgstr ""
+
+#: includes/settings.php:133
+msgid ""
+"This section is the text shown to user, in waiting modal under the timer, "
+"after clicking on the inquiry button."
+msgstr ""
+
+#: includes/settings.php:198
+msgid ""
+"This text will be displayed to the user after the user submit contact form."
+msgstr ""
+
+#: includes/settings.php:181
+msgid ""
+"This text will be displayed to the user during non-working hours of the "
+"store , if you set the shop hours."
+msgstr ""
+
+#: includes/settings.php:164
+msgid ""
+"This text will be displayed to the user if you can not set the price for the "
+"user within the specified time period."
+msgstr ""
+
+#: includes/settings.php:207
+msgid ""
+"This text will be displayed to the user when use choose 'out of stock' in "
+"answer of inquiry"
+msgstr ""
+
+#: includes/settings.php:137
+msgid "time limit for completing the order"
+msgstr ""
+
+#: includes/settings.php:116
+msgid "Time limit for completing the order after inquiry(minute)"
+msgstr ""
+
+#: includes/settings.php:123
+msgid "Tips"
+msgstr ""
+
+#: woo_inquiry.php:124
+msgid "to"
+msgstr ""
+
+#: includes/settings.php:450
+msgid ""
+"To use the woo inquiry Plugin, please first install and activate Woocommerce"
+msgstr ""
+
+#: includes/settings.php:250
+msgid "Top"
+msgstr ""
+
+#: includes/reports.php:80
+msgid "User / Session"
+msgstr ""
+
+#: includes/reports.php:110 includes/reports.php:142 includes/reports.php:175
+#: includes/functions.php:509 includes/functions.php:560
+msgid "User info"
+msgstr ""
+
+#: woo_inquiry.php:94
+msgid "Username"
+msgstr ""
+
+#: includes/reports.php:36
+msgid "Users"
+msgstr ""
+
+#: includes/functions.php:1295
+msgid "View Product"
+msgstr ""
+
+#: includes/interface.php:189
+msgid "View product"
+msgstr ""
+
+#: includes/settings.php:372
+msgid "Web Notification sound"
+msgstr ""
+
+#. Name of the plugin
+msgid "Woo Inquiry"
+msgstr ""
+
+#. Description of the plugin
+msgid "Woocommerce online price inquiry"
+msgstr ""
+
+#: includes/settings.php:91 includes/settings.php:144 includes/settings.php:215
+msgid "Yes"
+msgstr ""
+
+#: bot/rest.php:44
+msgid "You are currently in the list of bot managers"
+msgstr ""
+
+#: includes/settings.php:135
+msgid "you can use : "
+msgstr ""
+
+#: bot/rest.php:246
+msgid ""
+"You do not have permission to access this section. Your user account should "
+"have the role of Admin or store manager."
+msgstr ""
+
+#: woo_inquiry.php:96
+msgid "Your Bot Token has been activated successfully  ✅"
+msgstr ""
+
+#: woo_inquiry.php:174
+msgid "Your browser blocked notification sound , please play this sound"
+msgstr ""
+
+#: includes/functions.php:1280
+msgid "😴 non-working hours request"
+msgstr ""

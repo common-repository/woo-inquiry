@@ -1,0 +1,289 @@
+@CHARSET "UTF-8";
+/**
+ * Stylesheet for admin settings
+ *
+ * @version 2018-04-07
+ */
+@font-face {
+  font-family: Tanha;
+  src: url('../fonts/Tanha.eot');
+  src: url('../fonts/Tanha.eot?#iefix') format('Tanha-opentype'),
+       url('../fonts/Tanha.woff') format('woff'),
+       url('../fonts/Tanha.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.notice-warning{
+	display : none !important;
+}
+
+#update-nag, .update-nag {
+    display: none !important;
+}
+
+.notice-success, div.updated {
+    display: none !important;
+}
+
+
+.woo_wpinq_setting_page {
+    margin-left: 20px;
+    font-family: Tanha !important;
+    margin-top: 10px;
+}
+
+.ui-widget input, .ui-widget select, .ui-widget textarea, .ui-widget button {
+    font-family: Tanha !important;
+    font-size: 1em;
+}
+
+div#tabs {
+    font-family: tanha !important;
+}
+
+.ui-widget-content {
+    background: #ffffff00 !important;
+}
+
+.ui-widget.ui-widget-content {
+    border: unset !important;
+}
+
+
+ul.ui-tabs-nav.ui-helper-reset.ui-helper-clearfix.ui-widget-header.ui-corner-all {
+    background: #ffffff00 !important;
+    border: unset !important;
+}
+
+div#tabs-1 {
+    border: 1px solid gainsboro;
+    border-radius: 9px;
+}
+div#tabs-2 {
+    border: 1px solid gainsboro;
+    border-radius: 9px;
+}
+div#tabs-3 {
+    border: 1px solid gainsboro;
+    border-radius: 9px;
+}
+div#tabs-4 {
+    border: 1px solid gainsboro;
+    border-radius: 9px;
+}
+div#tabs-5 {
+    border: 1px solid gainsboro;
+    border-radius: 9px;
+}
+
+
+
+.CodeMirror-gutters {
+    width: 32px;
+}
+
+pre.CodeMirror-line {
+    padding-left: 45px !important;
+}
+ 
+input.font-size.ui-spinner-input {
+    width: 26px;
+}
+
+input.button-round.ui-spinner-input {
+    width: 26px;
+}
+
+input.button-border.ui-spinner-input {
+    width: 26px;
+}
+
+input.button-padding.ui-spinner-input {
+    width: 26px;
+}
+
+
+span.ui-spinner.ui-widget.ui-widget-content.ui-corner-all {
+    margin-left: 15px;
+	    height: 27px;
+}
+
+
+input.spinner-width.ui-spinner-input {
+    width: 69px;
+    height: 32px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+
+.woo_wpinq_th_header{
+    background: #cad8e4;
+    font-size: 18px;
+    padding: 5px;
+    width: 100%;
+    display: block;
+    border-radius: 12px;
+}
+
+
+
+div#woo_wpinq_modal {
+
+
+	
+}
+
+.woo_wpinq_modal-content {
+	 border-radius: 10px !important;
+    position: relative;
+    background-color: #fefefe;
+    margin: auto;
+    padding: 0;
+    border: 1px solid #888;
+    width: 40%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    -webkit-animation-name: zoomIn;
+    -webkit-animation-duration: 0.6s;
+    animation-name: zoomIn;
+    animation-duration: 0.6s;
+}
+
+@media screen and (max-width: 782px){
+.woo_wpinq_modal-content {
+
+    width: 90%;
+
+}
+
+.woo_wpinq_setting_page {
+    margin: 0px !important;
+    margin-right: -15px !important;
+}
+
+div#tabs-2 {
+    padding: 5px !important;
+}
+
+div#tabs-3 {
+    padding: 5px !important;
+}
+
+div#tabs-4 {
+    padding: 5px !important;
+}
+
+div#tabs-1 {
+    padding: 5px !important;
+}
+
+li.ui-state-default.ui-corner-top {
+    font-size: 12px !important;
+}
+
+
+
+}
+
+td.woo_wpinq_interduce {
+    padding: 5px;
+    text-align: center;
+    border: 1px solid #5f5e5e1a;
+    color: red;
+    background: #f5dcdc;
+    border-spacing: 0px;
+}
+
+.CodeMirror {
+  height: auto !important;
+}
+
+.woo_wpinq_maximum_time {
+    width: 100%;
+}
+
+.woo_wpinq_maximum_time ul {
+    padding-right: 30px !important;
+}
+
+.woo_wpinq_modal-body {
+	     width: -webkit-fill-available;
+	    border-radius: 10px !important;
+	    padding: 10px;
+	background : white;
+	}
+	
+	
+.woo_wpinq_stopwatch {
+       height: auto;
+	       text-align: -webkit-center;
+	       
+}
+
+
+.woo_wpinq_please_wait {
+    text-align: center;
+    padding: 10px;
+    background: #f1f1f1;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+	color : black;
+}
+
+
+.dashicons-timedore {
+    font-size: 40px;
+    width: 40px;
+    height: 40px;
+    line-height: 0px;
+    transform: rotateZ(180deg);
+}
+
+
+.dashicons-aghrabe {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    font-size: 36px;
+    line-height: 0px !important;
+    top: 0px;
+    right: 2px;
+    transform: rotate(180deg);
+    -webkit-animation: rotate-center 0.9s linear infinite both;
+    animation: rotate-center 0.9s linear infinite both;
+}
+
+.woo_wpinq-multi-vendor{
+	display : none;
+}
+
+.woo_wpinq_vendor_access_code{
+    background: #f7b8b866;
+    color: red;
+    padding: 10px;
+    font-size: 14px;
+    border-radius: 10px;
+    display: inline-block;	
+}
+
+.woo_wpinq_waiting {
+	display : none;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #ffffffa1;
+    z-index: 9999;
+}
+
+
+.woo_pinq_notic_admin {
+    text-align: center;
+    background: #cad8e4;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: red;
+    font-size: 20px;
+}
+	
